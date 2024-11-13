@@ -1,0 +1,16 @@
+../Middlewares/Third_Party/mbedTLS/include/mbedtls/pk.h:170:36:mbedtls_pk_ec	16	static
+../Core/Src/main.c:90:6:get_stm32_uid	40	static
+../Core/Src/main.c:107:5:flash_certificate	128	static
+../Core/Src/main.c:163:6:Flash_Write_PrivateKey	64	static
+../Core/Src/main.c:204:6:esp8266_get_device_info	472	static
+../Core/Src/main.c:249:6:esp8266_connect_to_wifi	336	static
+../Core/Src/main.c:333:6:generate_csr	1448	static
+../Core/Src/main.c:474:6:Flash_Write_Certificate	56	static
+../Core/Src/main.c:514:5:receive_certificate	1040	static
+../Core/Src/main.c:612:5:main	8	static
+../Core/Src/main.c:695:6:SystemClock_Config	88	static
+../Core/Src/main.c:742:13:MX_RNG_Init	8	static
+../Core/Src/main.c:765:13:MX_UART4_Init	8	static
+../Core/Src/main.c:795:13:MX_UART5_Init	8	static
+../Core/Src/main.c:825:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:858:6:Error_Handler	4	static
